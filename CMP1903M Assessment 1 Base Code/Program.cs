@@ -69,7 +69,9 @@ namespace CMP1903M_Assessment_1_Base_Code
             else
             {
                 Console.WriteLine("Input cannot be null.");
-            }  
+            }
+
+            Console.ReadLine();
         }
     }
 }
